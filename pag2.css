@@ -1,0 +1,192 @@
+body {
+  background-color: #f1dccb;
+}
+
+body {
+  font-family: 'Poetsen One', sans-serif;
+}
+
+body {
+  background-image: url('https://img.freepik.com/fotos-gratis/imagem-de-fundo-de-papel-de-parede-abstrato-bege_53876-102527.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+}
+
+h1 {
+  color: rgb(66, 66, 66);
+}
+
+.textinicio {
+  font-size: 30px;
+  color: rgb(66, 66, 66);
+}
+
+.logo {
+  top: -330px;
+  left: -200px;
+  margin: 0;
+  border-radius: 50%;
+  border: 5px solid rgb(0, 0, 0);
+  width: 100px;
+  height: 100px;
+}
+
+.botaoteste:hover {
+  background-color: rgb(63, 63, 63);
+  border: 2px solid rgb(63, 63, 63);
+  transition: 1.7s;
+  scale: 1.2;
+  transform: rotate(90deg);
+  transition: 1.7s;
+  transform: rotate(180deg);
+  transition: 1.7s;
+  transform: rotate(270deg);
+  transition: 1.7s;
+  transform: rotate(360deg);
+}
+
+
+.botaoteste2:hover {
+  background-color: rgb(63, 63, 63);
+  border: 2px solid rgb(63, 63, 63);
+  transition: 1.7s;
+  scale: 1.2;
+  transform: rotate(90deg);
+  transition: 1.7s;
+  transform: rotate(180deg);
+  transition: 1.7s;
+  transform: rotate(270deg);
+  transition: 1.7s;
+  transform: rotate(360deg);
+}
+
+.botaosite3:hover {
+  background-color: rgb(63, 63, 63);
+  border: 2px solid rgb(63, 63, 63);
+  transition: 1.7s;
+  scale: 1.2;
+  transform: rotate(90deg);
+  transition: 1.7s;
+  transform: rotate(180deg);
+  transition: 1.7s;
+  transform: rotate(270deg);
+  transition: 1.7s;
+  transform: rotate(360deg);
+}
+
+.botaosite4:hover {
+  background-color: rgb(63, 63, 63);
+  border: 2px solid rgb(63, 63, 63);
+  transition: 1.7s;
+  scale: 1.2;
+  transform: rotate(90deg);
+  transition: 1.7s;
+  transform: rotate(180deg);
+  transition: 1.7s;
+  transform: rotate(270deg);
+  transition: 1.7s;
+  transform: rotate(360deg);
+}
+
+.botaosite5:hover {
+  background-color: rgb(63, 63, 63);
+  border: 2px solid rgb(63, 63, 63);
+  transition: 1.7s;
+  scale: 1.2;
+  transform: rotate(90deg);
+  transition: 1.7s;
+  transform: rotate(180deg);
+  transition: 1.7s;
+  transform: rotate(270deg);
+  transition: 1.7s;
+  transform: rotate(360deg);
+}
+
+.logo:hover {
+  background-color: rgb(63, 63, 63);
+  border: 2px solid rgb(63, 63, 63);
+  transition: 1.7s;
+  scale: 1.2;
+  transform: rotate(90deg);
+  transition: 1.7s;
+  transform: rotate(180deg);
+  transition: 1.7s;
+  transform: rotate(270deg);
+  transition: 1.7s;
+  transform: rotate(360deg);
+}
+
+.botaoteste {
+  line-height: 1;
+  margin: 0;
+  height: 100px;
+  width: 100px;
+  border-radius: 30%;
+  font-size: 20px;
+  font-family: 'Poetsen One', sans-serif;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.botaoteste2 {
+  line-height: 1;
+  margin: 0;
+  height: 100px;
+  width: 100px;
+  border-radius: 30%;
+  font-size: 20px;
+  font-family: 'Poetsen One', sans-serif;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  border: 2px solid rgb(114, 114, 114);
+}
+
+.botaosite3 {
+  line-height: 1;
+  margin: 0;
+  height: 100px;
+  width: 100px;
+  border-radius: 30%;
+  font-size: 20px;
+  font-family: 'Poetsen One', sans-serif;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.botaosite4 {
+  line-height: 1;
+  margin: 0;
+  height: 100px;
+  width: 100px;
+  border-radius: 30%;
+  font-size: 20px;
+  font-family: 'Poetsen One', sans-serif;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.botaosite5 {
+  line-height: 1;
+  margin: 0;
+  height: 100px;
+  width: 100px;
+  border-radius: 30%;
+  font-size: 20px;
+  font-family: 'Poetsen One', sans-serif;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.linha-branca {
+  height: 150px;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
